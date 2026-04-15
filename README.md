@@ -35,7 +35,7 @@ http://ap1-django-env.eba-huvngg2a.us-east-1.elasticbeanstalk.com/api/categorias
 ## Como executar localmente
 
 1. Clonar o repositório  
-git clone https://github.com/yadura/resteb2.git  
+git clone https://github.com/ydurra/resteb2.git  
 
 2. Acessar a pasta  
 cd resteb2  
@@ -68,7 +68,3 @@ py manage.py runserver
 - Deploy na AWS Elastic Beanstalk  
 
 ---
-
-## Observação
-
-O login do admin pode não funcionar corretamente na aplicação em produção.
